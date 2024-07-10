@@ -49,8 +49,8 @@ app.get("/", (req, res) => {
     </head>
     <body>
         <div class="container">
-            <h1>Hall Booking API Running</h1>
-            <p>Kindly check the API in Postman.</p>
+            <h1>Hall Booking API Running Successfully</h1>
+            <p>To test the same do check the API in Postman.</p>
         </div>
     </body>
     </html>
