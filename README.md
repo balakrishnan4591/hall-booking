@@ -2,6 +2,10 @@
 
 Hall Booking API
 
+## App deployed in Render
+
+https://hall-booking-dtch.onrender.com/
+
 ## Documentation
 
 Using Express and node this app will help you book hotel rooms.
